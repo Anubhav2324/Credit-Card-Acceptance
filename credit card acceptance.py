@@ -10,7 +10,7 @@ import seaborn as sns
 #### Loading Data
 
 # loading the data
-data = pd.read_csv("C:/Users/HP/Desktop/mll/ML Batch/credit_card.csv")
+data = pd.read_csv("credit_card data.csv")
 data.head(10)
 
 #Observing the shape of the dataframe.
